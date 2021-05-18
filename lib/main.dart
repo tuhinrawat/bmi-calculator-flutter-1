@@ -28,7 +28,7 @@ class _InputPageState extends State<InputPage> {
         title: Text('BMI CALCULATOR is /*  */new app fuck your bitch'), /*  */
       ),
       body: Center(
-        child: Text('Body Text'),
+        child: Text('Body Text is a new text'),
       ),
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.add),
