@@ -25,7 +25,7 @@ class _InputPageState extends State<InputPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('BMI CALCULATOR is /*  */new app'), /*  */
+        title: Text('BMI CALCULATOR is /*  */new app fuck your bitch'), /*  */
       ),
       body: Center(
         child: Text('Body Text'),
